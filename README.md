@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - I'm currently learning how to create a repository for a project and it's not a mean feat for newbie 😅.
 
