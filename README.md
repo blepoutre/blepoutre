@@ -1,18 +1,49 @@
-### Hello there 👋
+# Hi everyone !
 
-- I'm currently learning how to create a repository for a project and it's not a mean feat for newbie 😅.
+I'm **Benjamin Lepoutre**, a passionate developer with a background in web development and a keen interest in coding and new technologies. I am a recent graduate of the intensive coding bootcamp at **Le Wagon**, where I honed my skills in full-stack web development.
 
-<!--
-**blepoutre/blepoutre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
 
-Here are some ideas to get you started:
+- **Le Wagon** - Full-Stack Web Development Bootcamp
+  - During this intensive program, I gained hands-on experience in building web applications using technologies like Ruby on Rails, JavaScript, HTML, and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+
+I have worked on several exciting projects during my time at Le Wagon and beyond. Below are some of the key projects I've been involved in:
+
+### [Codingo](https://github.com/blepoutre/codingo)
+
+**Description:**  
+Codingo is a dynamic platform that helps users learn coding through interactive exercises and tutorials. It's designed to make learning to code fun and accessible for everyone.
+
+**Key Features:**
+- Interactive coding exercises
+- Progress tracking
+- Community forums for peer support
+
+### [BoatnBoat](https://github.com/blepoutre/boatnboat)
+
+**Description:**  
+BoatnBoat is an Airbnb-like application for boat rentals. It allows users to find and book boats for various occasions, from leisure trips to professional events.
+
+**Key Features:**
+- User-friendly search and booking system
+- Detailed boat listings with reviews and ratings
+- Secure payment processing
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Ruby, JavaScript, HTML, CSS
+- **Frameworks:** Ruby on Rails, Bootstrap
+- **Databases:** PostgreSQL
+- **Tools:** Git, GitHub, Heroku
+
+## 🌟 What I'm Passionate About
+
+- Coding and building web applications
+- Learning new programming languages and technologies
+- Exploring the intersection of technology and creativity
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benjaminlepoutre/) or check out my work on [GitHub](https://github.com/blepoutre).
