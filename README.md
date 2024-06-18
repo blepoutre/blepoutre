@@ -1,6 +1,6 @@
 # Hi everyone !
 
-I'm **Benjamin Lepoutre**, a passionate developer with a background in web development and a keen interest in coding and new technologies. I am a recent graduate of the intensive coding bootcamp at **Le Wagon**, where I honed my skills in full-stack web development.
+I'm **Benjamin**, a passionate developer with a background in web development and a keen interest in coding and new technologies. I am a recent graduate of the intensive coding bootcamp at [**Le Wagon (#batch1645)**](https://www.lewagon.com/fr/lille), where I honed my skills in full-stack web development.
 
 ## 🎓 Education
 
