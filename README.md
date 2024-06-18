@@ -14,12 +14,11 @@ I have worked on several exciting projects during my time at Le Wagon and beyond
 ### [Codingo](https://github.com/blepoutre/codingo)
 
 **Description:**  
-Codingo is a dynamic platform that helps users learn coding through interactive exercises and tutorials. It's designed to make learning to code fun and accessible for everyone.
+Codingo is a dynamic platform that helps users learn coding through interactive exercises and tutorials. It's designed to make learning to code fun and accessible for everyone. Codingo targets children aged 8-12, introducing them to the basics of coding (loops, simple operations, etc.) in an engaging and accessible way.
 
 **Key Features:**
 - Interactive coding exercises
 - Progress tracking
-- Community forums for peer support
 
 ### [BoatnBoat](https://github.com/blepoutre/boatnboat)
 
@@ -29,7 +28,6 @@ BoatnBoat is an Airbnb-like application for boat rentals. It allows users to fin
 **Key Features:**
 - User-friendly search and booking system
 - Detailed boat listings with reviews and ratings
-- Secure payment processing
 
 ## 🔧 Technologies & Tools
 
