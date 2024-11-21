@@ -1,0 +1,22 @@
+# Ignorer le dossier private
+private/
+
+# Ignorer les repositories embarqués
+BnB/
+blepoutre-rails-book-rooms-challenge-2024-06-17/
+boatnboat/
+codingo/
+dotfiles/
+fullstack-challenges/
+landing/
+profile/
+rails-longest-word-game/
+rails-stupid-coaching/
+rails-task-manager/
+rails-watch-list/
+rails-wikinimous/
+rails-yelp-mvp/
+technicaltest/
+
+# Ignorer les fichiers systèmes
+.DS_Store
