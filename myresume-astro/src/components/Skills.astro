@@ -1,0 +1,22 @@
+---
+import skillsData from '../data/skills.json';
+import { getLocalized } from '../utils/i18n';
+
+const { lang = 'fr' } = Astro.props;
+const data = getLocalized(skillsData, lang);
+const { title, items } = data;
+
+---
+<style lang="scss">
+  @use '../styles/index' as *;
+</style>
+
+<section class="skills">
+  <h2>{title}</h2>
+  <ul class="skills-item">
+    {items.map(skill => (
+        <li><strong>{skill.name}</strong>
+        {skill.description && <p>{skill.description}</p>}</li>
+    ))}
+  </ul>
+</section>

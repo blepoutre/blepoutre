@@ -1,0 +1,74 @@
+@use "./index" as *;
+
+.pdf-mode h1,
+.pdf-mode h2,
+.pdf-mode h3 {
+  color: black !important;
+  background: transparent !important;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  min-height: 100vh;
+  padding-top: 3rem;
+}
+
+.sidebar {
+  width: 300px;
+  flex-shrink: 0;
+  position: fixed;
+  height: 100vh;
+  overflow-y: auto;
+  background: white;
+  padding: 1rem;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+}
+
+.main-content {
+  flex-grow: 1;
+  margin-left: calc(300px + 2rem);
+  padding-bottom: 100px;
+  padding: 1rem;
+  overflow-y: auto;
+  padding-bottom: 2rem;
+  min-height: 100vh;
+}
+
+@media (max-width: 900px) {
+  .container {
+    flex-direction: column;
+    padding-top: 3.5rem; /* Ajuste selon la hauteur de ta navbar/langswitch */
+    height: auto;
+    min-height: auto;
+  }
+  .sidebar {
+    position: static;
+    width: 100%;
+    height: auto;
+    box-shadow: none;
+  }
+  .main-content {
+    margin-left: 0;
+    min-height: auto;
+    height: auto;
+  }
+  .sidebar img,
+  .sidebar .profile-photo {
+    max-width: 120px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}

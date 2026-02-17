@@ -1,0 +1,45 @@
+@use "./colors" as colors;
+
+.skills {
+  margin-bottom: 2rem;
+
+  .skills-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .skills-item {
+    margin-bottom: 1.2rem;
+
+    strong {
+      display: block;
+      font-weight: bold;
+      color: colors.$primary-color;
+    }
+
+    p {
+      margin: 0.3rem 0 0 0;
+      font-size: 0.95rem;
+      color: colors.$text-secondary;
+    }
+  }
+}
+
+.soft-skills {
+  margin: 2rem 0;
+  h2 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: colors.$primary-color;
+  }
+  ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    li {
+      margin-bottom: 0.5rem;
+      font-size: 1.1rem;
+      color: colors.$text-color;
+    }
+  }
+}

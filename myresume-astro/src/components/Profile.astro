@@ -1,0 +1,14 @@
+---
+import profileData from '../data/profile.json';
+import { getLocalized } from '../utils/i18n';
+
+const { lang = 'fr' } = Astro.props;
+const profile = getLocalized(profileData, lang);
+---
+<style lang="scss">
+  @use '../styles/index' as *;
+</style>
+
+<section class="profile">
+  <p>{profile.description}</p>
+</section>

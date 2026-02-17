@@ -1,0 +1,21 @@
+# robots.txt contrôle l'accès des robots (moteurs) à votre site.
+# Directives communes :
+# - User-agent : cible un robot (ou * pour tous)
+# - Allow / Disallow : autorise ou interdit l'accès à un chemin
+# - Sitemap : indique l'emplacement du sitemap
+
+# Exemple : autoriser tous les robots à indexer tout le site
+User-agent: *
+Allow: /
+
+# Indiquer l'emplacement du sitemap (remplacez par votre URL)
+# Sitemap: https://votredomaine.com/sitemap.xml
+
+# ----- Exemples alternatifs (décommenter si utile) -----
+# Bloquer tous les robots (site non indexé)
+# User-agent: *
+# Disallow: /
+
+# Bloquer un robot particulier
+# User-agent: BadBot
+# Disallow: /

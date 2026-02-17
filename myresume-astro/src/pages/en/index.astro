@@ -1,0 +1,45 @@
+---
+const lang = "en";
+// Import de tes composants ici
+import Contact from "../../components/Contact.astro";
+import Education from "../../components/Education.astro";
+import ExperienceCard from "../../components/ExperienceCard.astro";
+import ExperienceList from "../../components/ExperienceList.astro";
+import Header from "../../components/Header.astro";
+import Language from "../../components/Language.astro";
+import LanguageSwitcher from "../../components/LanguageSwitcher.astro";
+import Profile from "../../components/Profile.astro";
+import ProfilePhoto from "../../components/ProfilePhoto.astro";
+import Skills from "../../components/Skills.astro";
+import SoftSkills from "../../components/SoftSkills.astro";
+// Import du layout manquant
+import Layout from "../../layouts/Layout.astro";
+---
+
+<Layout lang={lang}  title="Benjamin Lepoutre — My Resume">
+  <Fragment slot="head">
+    <link rel="canonical" href="https://benjaminlepoutre.fr/en/" />
+    <link rel="alternate" href="https://benjaminlepoutre.fr/en/" hreflang="en" />
+    <link rel="alternate" href="https://benjaminlepoutre.fr/" hreflang="fr" />
+    <link rel="alternate" href="https://benjaminlepoutre.fr/" hreflang="x-default" />
+    <meta property="og:url" content="https://benjaminlepoutre.fr/en/" />
+  </Fragment>
+  <div class="container">
+    <LanguageSwitcher currentLang={lang} />
+    <aside class="sidebar">
+      <ProfilePhoto src="/assets/v3.png" alt="Benjamin Lepoutre" size={180} />
+      <Contact lang={lang} />
+      <SoftSkills lang={lang} />
+      <Language lang={lang} />
+    </aside>
+    <main class="main-content">
+      <Header lang={lang} />
+      <Profile lang={lang} />
+      <Skills lang={lang} />
+      <ExperienceCard>
+        <ExperienceList lang={lang} />
+      </ExperienceCard>
+      <Education lang={lang} />
+    </main>
+  </div>
+</Layout>

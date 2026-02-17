@@ -1,0 +1,199 @@
+{
+  "fr": [
+    { "title": "Expériences professionnelles" },
+    {
+      "poste": "responsable technique laboratoire",
+      "entreprise": "ADEO Services",
+      "lieu": "Ronchin",
+      "periode": "2022 - 2024",
+      "missions": [
+        "Participation à la mise en place de l'activité laboratoire",
+        "Gestion documentaire",
+        "Création de nouvelles méthodes de test",
+        "Gestion logistique et métrologique des équipements du laboratoire",
+        "Support technique aux équipes projets, formation des collaborateurs à l'utilisation des matériels et accompagnement dans leurs propres essais",
+        "Création de contenu sur le réseau social de l'entreprise pour vulgariser et partager l'activité du laboratoire avec les équipes en interne"
+      ]
+    },
+    {
+      "poste": "technicien essais validation",
+      "entreprise": "Motherson",
+      "lieu": "Harnes",
+      "periode": "2020 - 2022",
+      "missions": [
+        "Essais d'endurance manoeuvres sur planches de bord, panneaux de porte et console",
+        "Essais mécaniques de contrôles destructifs sur éprouvettes (tenue des agrafes, des bouteroles et autres structures et composants)"
+      ]
+    },
+    {
+      "poste": "contrôleur dimensionnel",
+      "entreprise": "Dassault Aviation",
+      "lieu": "Seclin",
+      "periode": "2019 - 2020",
+      "missions": [
+        "Contrôle dimensionnel de pièce de Rafale et Falcon 6X",
+        "Tests destructifs à la machine de traction sur éprouvettes métalliques pour contrôler les paramètres des fours",
+        "Contrôle de la métrologie des outils de contrôle dimensionnel (piges, réglets, pieds à coulisse, palpeur...)"
+      ]
+    },
+    {
+      "poste": "technicien Recherche & Développement",
+      "entreprise": "MacoPharma",
+      "lieu": "Mouvaux",
+      "periode": "Octobre 2018 - Avril 2019",
+      "missions": [
+        "Réalisation de la dernière campagne d'essais pour la validation des poches de sang de collecte",
+        "Surveillance et contrôle du stockage des réserves de cellules souches destinées à la recherche médicale"
+      ]
+    },
+    {
+      "poste": "technicien amdec",
+      "entreprise": "Atlantic",
+      "lieu": "Merville",
+      "periode": "Mai 2018 - Septembre 2018",
+      "missions": [
+        "Essais AMDEC pour apporter des réponses et des solutions aux pannes clients au travers des FAQ"
+      ]
+    },
+    {
+      "poste": "Relais matériel agence",
+      "entreprise": "APAVE",
+      "lieu": "Marcq-en-Baroeul",
+      "periode": "Mai 2017 - Mai 2018",
+      "missions": [
+        "Gestion administrative d'un parc de matériel de plus de 1600 instruments de mesures, s'assurer que les appareils sont dans leur période de validité métrologique et le cas échéant les envoyer en sous traitance pour les contrôler puis les réinsérer par la suite dans le circuit"
+      ]
+    },
+    {
+      "poste": "ICT spécialiste technique méthodes et moyens d'essai",
+      "entreprise": "DGA - Techniques Terrestres",
+      "lieu": "Bourges",
+      "periode": "Octobre 2015 - Mai 2017",
+      "missions": [
+        "Photoreportage sur les positions de tirs, mise en place de caméra ultrarapide (FASTCAM) pour capturer des évènements à haute vélocité (charge d'obus de mortier, tirs de munitions.",
+        "Radiographie éclaire : observation des jets de charge creuse au travers de plaque de blindage",
+        "Création d'une charte colorimétrique aux couleurs OTAN pour calibrer nos chaînes de mesures photos/vidéos et permettre également de qualifier les systèmes de détection."
+      ]
+    },
+    {
+      "poste": "Technicien Qualité",
+      "entreprise": "LISI AUTOMOTIV",
+      "lieu": "St Florent sur Cher",
+      "periode": "Avril 2015 - Mai 2015",
+      "missions": [
+        "Essais mécaniques destructifs et matériaux sur pièces automobiles (pièces neuves, prototypes et retours clients) dans le domaine des transferts de fluides",
+        "Attaques acide et étude des mailles cristallines au microscope à lumière polarisée"
+      ]
+    },
+    {
+      "poste": "Technicien de Laboratoire",
+      "entreprise": "Hutchinson",
+      "lieu": "Châlette-sur-Loing",
+      "periode": "Septembre 2013 - Septembre 2014",
+      "missions": [
+        "Contrôles fonctionnels et matériaux sur pièces automobiles (pièces neuves pièces proto et retours clients) dans le domaine des transferts de fluides",
+        "Amélioration et refonte d'un banc de test pour les nouvelles pièces",
+        "Création d'une nouvelle méthode de test et d'un banc associé pour adapter une norme aux durites automobiles"
+      ]
+    }
+  ],
+  "en": [
+    { "title": "Work Experience" },
+    {
+      "poste": "Technical Laboratory Manager",
+      "entreprise": "ADEO Services",
+      "lieu": "Ronchin",
+      "periode": "2022 - 2024",
+      "missions": [
+        "Involved in setting up the laboratory activity",
+        "Document management",
+        "Development of new testing methods",
+        "Logistics and metrology management of laboratory equipment",
+        "Technical support to project teams, training colleagues on equipment use and assisting with their own testing",
+        "Created content on the company's internal social network to explain and share the lab's activity"
+      ]
+    },
+    {
+      "poste": "Validation Testing Technician",
+      "entreprise": "Motherson",
+      "lieu": "Harnes",
+      "periode": "2020 - 2022",
+      "missions": [
+        "Endurance tests on dashboards, door panels, and consoles",
+        "Mechanical destructive tests on specimens (retention of clips, studs, and other components)"
+      ]
+    },
+    {
+      "poste": "Dimensional Inspector",
+      "entreprise": "Dassault Aviation",
+      "lieu": "Seclin",
+      "periode": "2019 - 2020",
+      "missions": [
+        "Dimensional inspection of Rafale and Falcon 6X parts",
+        "Destructive testing on metal specimens using tensile machines to validate oven settings",
+        "Inspection of metrology equipment (pins, rulers, calipers, probes, etc.)"
+      ]
+    },
+    {
+      "poste": "R&D Technician",
+      "entreprise": "MacoPharma",
+      "lieu": "Mouvaux",
+      "periode": "October 2018 - April 2019",
+      "missions": [
+        "Final testing campaign for validation of blood collection bags",
+        "Monitoring and control of stem cell storage used in medical research"
+      ]
+    },
+    {
+      "poste": "FMEA Technician",
+      "entreprise": "Atlantic",
+      "lieu": "Merville",
+      "periode": "May 2018 - September 2018",
+      "missions": [
+        "FMEA testing to identify and address customer issues through FAQs"
+      ]
+    },
+    {
+      "poste": "Equipment Coordinator",
+      "entreprise": "APAVE",
+      "lieu": "Marcq-en-Barœul",
+      "periode": "May 2017 - May 2018",
+      "missions": [
+        "Administrative management of over 1,600 measuring instruments, ensuring their metrological validity, outsourcing for control when needed, and reintegrating them into the system"
+      ]
+    },
+    {
+      "poste": "Technical Specialist – Testing Methods and Equipment",
+      "entreprise": "DGA - Land Techniques",
+      "lieu": "Bourges",
+      "periode": "October 2015 - May 2017",
+      "missions": [
+        "Photo reporting on firing positions, setup of high-speed cameras (FASTCAM) to capture high-velocity events (mortar shell charges, ammunition firing)",
+        "Flash X-ray: observation of shaped charge jets through armor plates",
+        "Created an OTAN-colored chart to calibrate photo/video measurement systems and qualify detection systems"
+      ]
+    },
+    {
+      "poste": "Quality Technician",
+      "entreprise": "LISI AUTOMOTIV",
+      "lieu": "St Florent sur Cher",
+      "periode": "April 2015 - May 2015",
+      "missions": [
+        "Destructive and material testing on automotive parts (new parts, prototypes, customer returns) in the fluid transfer field",
+        "Improved and redesigned a testing bench for new parts",
+        "Developed a new testing method and associated bench to adapt a standard for automotive hoses"
+      ]
+    },
+    {
+      "poste": "Laboratory Technician",
+      "entreprise": "Hutchinson",
+      "lieu": "Châlette-sur-Loing",
+      "periode": "September 2013 - September 2014",
+      "missions": [
+        "Functional and material testing on automotive parts (new parts, prototypes, and customer returns) in the fluid transfer sector",
+        "Improved and redesigned a test bench for new parts",
+        "Developed a new testing method and associated bench to adapt a standard for automotive hoses"
+      ]
+    }
+  ]
+}

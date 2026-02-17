@@ -1,0 +1,45 @@
+.education {
+  margin: 2rem 0;
+
+  h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.3rem;
+    color: #2c3e50;
+  }
+
+  .education-item {
+    margin-bottom: 1rem; // réduit de 2rem à 1rem
+    padding: 0.75rem; // réduit un peu le padding pour moins d'espace intérieur
+    background-color: #f9f9f9;
+    border-left: 4px solid #3498db;
+    border-radius: 8px;
+
+    h3 {
+      margin-top: 0;
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-bottom: 0.4rem; // un peu moins d'espace sous le titre
+      color: #34495e;
+    }
+
+    p {
+      font-style: italic;
+      margin-bottom: 0.4rem; // idem
+      color: #7f8c8d;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 1.2rem;
+      list-style: disc;
+
+      li {
+        margin-bottom: 0.2rem; // moins d'espace entre les points
+        line-height: 1.4;
+        color: #2d3436;
+      }
+    }
+  }
+}

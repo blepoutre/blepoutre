@@ -1,0 +1,45 @@
+---
+// src/layouts/Layout.astro
+import '../styles/global.scss';
+const { title, lang = "fr"} = Astro.props;
+---
+
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="index, follow" />
+    <meta name="description" content="Curriculum vitae de Benjamin Lepoutre, Agent de Maîtrise, expert polyvalent en dispositif de test, analyses de données et rédactions techniques." />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/favicons/favicon-16x16.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/favicons/favicon.svg"
+    />
+    <link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png" />
+    <link rel="manifest" href="/favicons/site.webmanifest" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <meta name="generator" content={Astro.generator} />
+    <meta property="og:title" content="Benjamin Lepoutre — Mon CV" />
+    <meta property="og:description" content="Curriculum vitae de Benjamin Lepoutre, Agent de Maîtrise, expert polyvalent en dispositif de test, analyses de données et rédactions techniques." />
+    <meta property="og:image" content="https://benjaminlepoutre.fr/v3.png" />
+    <meta property="og:image:alt" content="Photo de profil de Benjamin Lepoutre" />
+    <meta property="og:image:width" content="630" />
+    <meta property="og:image:height" content="630" />
+    <meta name="google-site-verification" content="LXocP2YACphcxQU0jYUTAy300NMB2eabEA73xEyCU9I" />
+    <title>{title}</title>
+    <slot name="head" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

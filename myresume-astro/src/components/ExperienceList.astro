@@ -1,0 +1,28 @@
+---
+import experienceData from '../data/experience.json';
+import { getLocalized } from '../utils/i18n';
+
+const { lang = 'fr' } = Astro.props;
+const experienceList = getLocalized(experienceData, lang);
+
+// Le titre est le premier élément
+const title = experienceList[0].title;
+// Le reste des expériences à partir du 2e élément
+const experience = experienceList.slice(1);
+---
+<style lang="scss">
+  @use '../styles/index' as *;
+</style>
+
+<section class="experience">
+  <h2>{title}</h2>
+  <div class="experience-item">
+      {experience.map(exp => (
+        <h3>{exp.poste?.toUpperCase()} - {exp.entreprise}</h3>
+        <p><strong>{exp.periode}</strong> - {exp.lieu}</p>
+        <ul>
+          {exp.missions?.map(mission => (<li>{mission}</li>))}
+        </ul>
+      ))}
+    </div>
+</section>

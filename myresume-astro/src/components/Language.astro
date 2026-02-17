@@ -1,0 +1,15 @@
+---
+import languageData from '../data/language.json';
+import { getLocalized } from '../utils/i18n';
+
+const { lang = 'fr' } = Astro.props;
+const language = getLocalized(languageData, lang);
+---
+<style lang="scss">
+  @use '../styles/index' as *;
+</style>
+
+<section class="language">
+  <h2>{language.title}</h2>
+  <p>{language.lang}</p>
+</section>

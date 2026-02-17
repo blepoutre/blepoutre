@@ -1,0 +1,70 @@
+@use "./colors" as colors;
+// _typography.scss
+
+// Variables pour les polices
+$font-sans: "Inter", "Segoe UI", Roboto, sans-serif;
+$font-mono: "Fira Code", monospace;
+
+// Taille de base
+$font-size-base: 16px;
+$line-height-base: 1.6;
+
+// Hiérarchie typographique
+$h1-size: 2.25rem; // ~36px
+$h2-size: 1.75rem; // ~28px
+$h3-size: 1.5rem; // ~24px
+$h4-size: 1.25rem; // ~20px
+
+// Corps global
+body {
+  font-family: $font-sans;
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+  color: colors.$text-color;
+  background-color: colors.$background-color;
+  margin: 0;
+  padding: 0;
+}
+
+// Titres
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  line-height: 1.2;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: $h1-size;
+}
+h2 {
+  font-size: $h2-size;
+}
+h3 {
+  font-size: $h3-size;
+}
+h4 {
+  font-size: $h4-size;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+strong {
+  font-weight: 600;
+}
+
+a {
+  color: colors.$accent-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

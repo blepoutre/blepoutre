@@ -1,0 +1,19 @@
+---
+// src/components/LanguageSwitcher.astro
+const { currentLang = "fr" }: { currentLang?: "fr" | "en" } = Astro.props;
+---
+
+<style lang="scss">
+  @use "../styles/index" as *;
+  @media print {
+    /* Cacher le switcher de langue */
+    .language-switcher {
+      display: none !important;
+    }
+  }
+</style>
+
+<nav class="language-switcher">
+  {currentLang !== "fr" && <a href="/">🇫🇷 Français</a>}
+  {currentLang !== "en" && <a href="/en">🇬🇧 English</a>}
+</nav>

@@ -1,0 +1,28 @@
+{
+  "fr": {
+    "disponibility": "Disponibilité immédiate",
+    "mailto": "contact@benjaminlepoutre.fr",
+    "phoneNumber": "06 03 16 64 12",
+    "website": {
+      "url": "https://benjaminlepoutre.fr",
+      "label": "benjaminlepoutre.fr"
+    },
+    "linkedin": {
+      "url": "https://linkedin.com/in/benjaminlepoutre",
+      "label": "Profil LinkedIn"
+    }
+  },
+  "en": {
+    "disponibility": "immediatly",
+    "mailto": "contact@benjaminlepoutre.fr",
+    "phoneNumber": "+33 6 03 16 64 12",
+    "website": {
+      "url": "https://benjaminlepoutre.fr",
+      "label": "benjaminlepoutre.fr"
+    },
+    "linkedin": {
+      "url": "https://linkedin.com/in/benjaminlepoutre",
+      "label": "LinkedIn Profil"
+    }
+  }
+}

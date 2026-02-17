@@ -1,0 +1,22 @@
+---
+// src/components/SoftSkills.astro
+import softSkillsData from '../data/softskills.json';
+import { getLocalized } from '../utils/i18n';
+
+const { lang = 'fr' } = Astro.props;
+const data = getLocalized(softSkillsData, lang);
+const { title, items } = data;
+---
+
+<style lang="scss">
+  @use '../styles/index' as *;
+</style>
+
+<section class="soft-skills">
+  <h2>{title}</h2>
+  <ul>
+    {items.map(skill => (
+      <li>{skill}</li>
+    ))}
+  </ul>
+</section>

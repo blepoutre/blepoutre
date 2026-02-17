@@ -1,0 +1,47 @@
+{
+  "fr": {
+    "title": "Diplômes",
+    "items": [
+      {
+        "diploma": "DUT Mesures Physiques",
+        "school": "IUT de Bourges",
+        "periode": "2013 - 2014",
+        "details": [
+          "Formation axée sur la maîtrise des outils de mesure en laboratoire",
+          "Contrat d'apprentissage chez Hutchinson"
+        ]
+      },
+      {
+        "diploma": "Formation Développement Web",
+        "school": "Le Wagon Lille",
+        "periode": "Avril 2024 - Juin 2024",
+        "details": [
+          "Apprentissage intenssif du développement web (HTML, CSS, SASS, JavaScript, Ruby, Ruby on Rails, TurboJS, Figma (ce CV a été réalisé avec Astro)"
+        ]
+      }
+    ]
+  },
+  "en": {
+    "title": "Degrees",
+    "items": [
+      {
+        "diploma": "University Diploma in Physical Measurements",
+        "school": "IUT of Bourges (University Institute of Technology)",
+        "periode": "2013 - 2014",
+        "details": [
+          "Training focused on mastering laboratory measurement tools",
+          "Apprenticeship at Hutchinson"
+        ]
+      },
+      {
+        "diploma": "Web Development Bootcamp",
+        "school": "Le Wagon Lille",
+        "periode": "April 2024 - June 2024",
+        "details": [
+          "Intensive learning of web development (HTML, CSS, SASS, JavaScript, Ruby, Ruby on Rails, TurboJS, Figma)",
+          "This CV was built using Astro"
+        ]
+      }
+    ]
+  }
+}

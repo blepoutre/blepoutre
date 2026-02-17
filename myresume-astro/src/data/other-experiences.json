@@ -1,0 +1,32 @@
+{
+  "fr": {
+    "title": "Expériences annexes significatives",
+    "items": [
+      {
+        "name": "Réserviste de l'armée de Terre (2009 - 2013)",
+        "description": "43ème RI de Lille (fantassin), puis 41 RT de Douai (agent de circulation et éclaireur)",
+        "tasks": ["Cartographie", "Opérateur Radio", "Chauffeur"]
+      },
+      {
+        "name": "Animateur de Centres de Loisirs et Vacances (2006 - 2013)",
+        "description": "Spécialité Surveillant de Baignade",
+        "tasks": []
+      }
+    ]
+  },
+  "en": {
+    "title": "Additional Relevant Experiences",
+    "items": [
+      {
+        "name": "Army Reserve (2009 - 2013)",
+        "description": "43rd Infantry Regiment in Lille (infantryman), then 41st Signal Regiment in Douai (traffic agent and scout)",
+        "tasks": ["Cartography", "Radio Operator", "Driver"]
+      },
+      {
+        "name": "Youth and Holiday Camp Counselor (2006 - 2013)",
+        "description": "Specialty: Swimming Supervisor",
+        "tasks": []
+      }
+    ]
+  }
+}

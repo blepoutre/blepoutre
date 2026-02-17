@@ -1,0 +1,23 @@
+---
+import educationData from '../data/education.json';
+import { getLocalized } from '../utils/i18n';
+
+const { lang = 'fr' } = Astro.props;
+const education = getLocalized(educationData, lang);
+---
+<style lang="scss">
+  @use '../styles/index' as *;
+</style>
+
+<section class="education">
+  <h2>{education.title}</h2>
+  {education.items.map(item => (
+    <article class="education-item">
+      <h3>{item.diploma} — {item.school}</h3>
+      <p><em>{item.periode}</em></p>
+      <ul>
+        {item.details.map(detail => <li>{detail}</li>)}
+      </ul>
+    </article>
+  ))}
+</section>

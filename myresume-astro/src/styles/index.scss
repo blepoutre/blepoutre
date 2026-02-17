@@ -1,0 +1,12 @@
+// Importation des variables (doit venir avant tout)
+@use "./colors" as *;
+
+// Importation des composants de style (ordre logique : layout -> sections -> modules)
+// @use "background-bubbles"; // retiré
+@use "contact";
+@use "education";
+@use "experience";
+@use "langswitch";
+@use "profile";
+@use "skills";
+@use "typography";

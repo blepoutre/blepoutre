@@ -1,0 +1,15 @@
+---
+import headerData from '../data/header.json';
+import { getLocalized } from '../utils/i18n';
+
+const { lang = 'fr' } = Astro.props;
+const header = getLocalized(headerData, lang);
+---
+<style lang="scss">
+  @use '../styles/index' as *;
+</style>
+
+<header>
+  <h1>Benjamin Lepoutre</h1>
+  <h3>{header.poste.toUpperCase()} - {header.specialisation}</h3>
+</header>

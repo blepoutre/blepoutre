@@ -1,0 +1,25 @@
+---
+import otherData from '../data/other-experiences.json';
+import { getLocalized } from '../utils/i18n';
+
+const { lang = 'fr' } = Astro.props;
+const data = getLocalized(otherData, lang);
+const { title, items } = data;
+---
+
+<section class="other-experiences">
+  <h2>{title}</h2>
+  {items.map(item => (
+    <div class="experience-item">
+      <h3>{item.name}</h3>
+      {item.description && <p>{item.description}</p>}
+      {item.tasks && item.tasks.length > 0 && (
+        <ul>
+          {item.tasks.map(task => (
+            <li>{task}</li>
+          ))}
+        </ul>
+      )}
+    </div>
+  ))}
+</section>

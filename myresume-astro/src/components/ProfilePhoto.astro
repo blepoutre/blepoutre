@@ -1,0 +1,29 @@
+---
+// src/components/ProfilePhoto.astro
+import "../styles/_profile.scss";
+const { size = 180 } = Astro.props;
+---
+
+<img
+  class="profile-photo"
+  src="/assets/v3.png"
+  alt="Photo de profil"
+  style={`--size: ${size}px; user-select: none; -webkit-user-drag: none;`}
+  draggable="false"
+  oncontextmenu="return false;"
+/>
+
+<script>
+  if (typeof window !== "undefined") {
+    const img = document.querySelector(".profile-photo");
+    if (img) {
+      img.addEventListener("dragstart", (e) => e.preventDefault());
+    }
+    document.addEventListener("contextmenu", (e) => {
+      const target = e.target;
+      if (target instanceof Element && target.closest(".profile-photo")) {
+        e.preventDefault();
+      }
+    });
+  }
+</script>

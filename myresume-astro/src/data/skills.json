@@ -1,0 +1,52 @@
+{
+  "fr": {
+    "title": "Compétences",
+    "items": [
+      {
+        "name": "Rédaction de rapports techniques et fiches de procédure",
+        "description": ""
+      },
+      {
+        "name": "Lecture et interprétation de schémas fonctionnels",
+        "description": ""
+      },
+      {
+        "name": "Synthèse et structuration de données techniques",
+        "description": ""
+      },
+      {
+        "name": "Médiation entre conception, essais et exploitation des systèmes",
+        "description": ""
+      },
+      {
+        "name": "Aisance avec les langages structurés (XML, HTML…)",
+        "description": "capacité d’apprentissage rapide démontrée par une formation intensive en développement web"
+      }
+    ]
+  },
+  "en": {
+    "title": "Hard skills",
+    "items": [
+      {
+        "name": "Writing technical reports and procedure sheets",
+        "description": ""
+      },
+      {
+        "name": "Reading and interpreting functional diagrams",
+        "description": ""
+      },
+      {
+        "name": "Synthesizing and structuring technical data",
+        "description": ""
+      },
+      {
+        "name": "Mediation between design, testing, and system operations",
+        "description": ""
+      },
+      {
+        "name": "Fluency with structured languages (XML, HTML…)",
+        "description": "fast learning ability demonstrated by intensive web development training"
+      }
+    ]
+  }
+}

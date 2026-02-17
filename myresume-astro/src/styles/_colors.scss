@@ -1,0 +1,44 @@
+// _colors.scss
+@use "sass:color";
+// Couleurs principales
+$primary-color: #2c3e50; // Bleu foncé, élégant et professionnel
+$secondary-color: #3498db; // Bleu clair pour les accents (liens, boutons)
+
+// Couleurs de fond
+$background-light: #f1f1f1;
+$background-color: #f9f9f9;
+$background-alt: #efefef;
+$background-dark: #1e1e1e;
+
+// Texte
+$text-color: #2d2d2d;
+$text-secondary: #555555;
+$text-muted: #888888;
+$text-light: #ffffff;
+$accent-color: #0077cc;
+
+// États (hover, focus, etc.)
+$hover-color: color.scale($secondary-color, $lightness: -10%);
+$border-color: #e0e0e0;
+
+// Autres couleurs utiles
+$success-color: #27ae60;
+$warning-color: #f39c12;
+$error-color: #e74c3c;
+$info-color: #2980b9;
+
+// Exemple de dégradé si tu veux en ajouter un plus tard
+$gradient-main: linear-gradient(to right, $primary-color, $secondary-color);
+
+body {
+  background-color: $background-light;
+  color: $text-color;
+}
+
+a {
+  color: $secondary-color;
+
+  &:hover {
+    color: $hover-color;
+  }
+}

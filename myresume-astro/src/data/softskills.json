@@ -1,0 +1,22 @@
+{
+  "fr": {
+    "title": "Qualités personnelles",
+    "items": [
+      "Rigueur",
+      "Autonomie",
+      "Sens de l’initiative",
+      "Esprit d’analyse",
+      "Bon relationnel"
+    ]
+  },
+  "en": {
+    "title": "Soft Skills",
+    "items": [
+      "Rigor",
+      "Autonomy",
+      "Initiative",
+      "Analytical mindset",
+      "Good interpersonal skills"
+    ]
+  }
+}
