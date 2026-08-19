@@ -34,7 +34,7 @@ Professionnel de la **Métrologie et de la Qualité**, avec une double compéten
 * **Métier :** Métrologie, Contrôle Qualité, Analyse de processus.
 * **Développement Web :** Astro, Ruby on Rails, JavaScript, TypeScript, HTML5, CSS3, Bootstrap.
 * **Bases de données :** PostgreSQL.
-* **Outils & Qualité :** Git, GitHub, Web Performance, Accessibilité (a11y), RGPD.
+* **Outils & Qualité :** Git, GitHub, Web Performance, Accessibilité (WCAG 2.1), RGPD.
 
 ---
 
@@ -75,7 +75,7 @@ A **Metrology and Quality professional** with a strong background in **web devel
 * **Core Domain:** Metrology, Quality Assurance, Process Analysis.
 * **Web Development:** Astro, Ruby on Rails, JavaScript, TypeScript, HTML5, CSS3, Bootstrap.
 * **Databases:** PostgreSQL.
-* **Tools & Best Practices:** Git, GitHub, Web Performance, Accessibility (a11y), GDPR.
+* **Tools & Best Practices:** Git, GitHub, Web Performance, Accessibility (WCAG 2.1), GDPR.
 
 ---
 
