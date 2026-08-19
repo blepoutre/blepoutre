@@ -7,7 +7,7 @@
 
 # Bonjour, moi c'est Benjamin 👋
 
-![https://benjaminlepoutre.fr/og-image.jpg](https://benjaminlepoutre.fr/og-image.jpg)
+<img href="https://benjaminlepoutre.fr/og-image.jpg" alt="OG image de mon CV web" style="max-width: 500px; border-radius: 8px;" />
 
 Professionnel de la **Métrologie et de la Qualité**, avec une double compétence en **développement web**. Je combine rigueur analytique, respect des normes et conception de solutions web modernes, performantes et accessibles.
 
