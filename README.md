@@ -39,7 +39,7 @@ Professionnel de la **Métrologie et de la Qualité**, avec une double compéten
 ## 📫 Me contacter
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/benjaminlepoutre/)
-* 🌐 [Mon CV en ligne](https://votre-site-de-cv.fr)
+* 🌐 [Mon CV en ligne](https://benjaminlepoutre.fr)
 
 ---
 ---
@@ -80,4 +80,4 @@ A **Metrology and Quality professional** with a strong background in **web devel
 ## 📫 Get in Touch
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/benjaminlepoutre/)
-* 🌐 [My Online CV](https://votre-site-de-cv.fr)
+* 🌐 [My Online CV](https://benjaminlepoutre.fr)
