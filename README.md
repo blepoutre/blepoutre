@@ -5,8 +5,6 @@
 
 <div id="francais"></div>
 
-# Bonjour, moi c'est Benjamin 👋
-
 <p align="center">
   <img src="https://benjaminlepoutre.fr/og-image.jpg" alt="Aperçu du CV en ligne" width="600" />
 </p>
