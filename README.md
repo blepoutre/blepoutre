@@ -1,47 +1,83 @@
-# Hi everyone !
+<!-- En-tête de sélection de langue -->
+<p align="right">
+  🇬🇧 <a href="#english">English</a> | 🇫🇷 <a href="#francais">Français</a>
+</p>
 
-I'm **Benjamin**, a passionate developer with a background in web development and a keen interest in coding and new technologies. I am a recent graduate of the intensive coding bootcamp at [**Le Wagon (#batch1645)**](https://www.lewagon.com/fr/lille), where I honed my skills in full-stack web development.
+<div id="francais"></div>
 
-## 🎓 Education
+# Bonjour, moi c'est Benjamin 👋
 
-- **Le Wagon** - Full-Stack Web Development Bootcamp
-  - During this intensive program, I gained hands-on experience in building web applications using technologies like Ruby on Rails, JavaScript, HTML, and CSS.
+Professionnel de la **Métrologie et de la Qualité**, avec une double compétence en **développement web**. Je combine rigueur analytique, respect des normes et conception de solutions web modernes, performantes et accessibles.
 
-## 💼 Professional Experience
+---
 
-I have worked on several exciting projects during my time at Le Wagon and beyond. Below are some of the key projects I've been involved in:
+## 🧭 En bref
+* 📍 Basé près de Lille, France.
+* 🎯 **Mon approche :** Appliquer les standards de la Qualité (sobriété numérique, accessibilité, RGPD) au développement web.
+* 💻 **Stack principale :** Astro, HTML/CSS, JavaScript, TypeScript, Ruby on Rails.
+* 🎓 Diplômé de **Le Wagon** (Batch 1645) & professionnel de l'industrie.
 
-### [Codingo](https://github.com/blepoutre/codingo)
+---
 
-**Description:**  
-Codingo is a dynamic platform that helps users learn coding through interactive exercises and tutorials. It's designed to make learning to code fun and accessible for everyone. Codingo targets children aged 8-12, introducing them to the basics of coding (loops, simple operations, etc.) in an engaging and accessible way.
+## 🚀 Projets phares
 
-**Key Features:**
-- Interactive coding exercises
-- Progress tracking
+* **[CV en ligne](https://github.com/blepoutre/cv-benjaminlepoutre-fr)** : Site CV personnel développé en Astro, axé sur la performance, l'accessibilité et la conformité RGPD.
+* **[Codingo](https://github.com/blepoutre/codingo)** : Plateforme ludo-éducative d'apprentissage du code pour les 8-12 ans (Ruby on Rails / JS).
+* **[BoatnBoat](https://github.com/blepoutre/boatnboat)** : Application type Airbnb dédiée à la location de bateaux (Ruby on Rails / PostgreSQL).
 
-### [BoatnBoat](https://github.com/blepoutre/boatnboat)
+---
 
-**Description:**  
-BoatnBoat is an Airbnb-like application for boat rentals. It allows users to find and book boats for various occasions, from leisure trips to professional events.
+## 🛠️ Compétences & Outils
 
-**Key Features:**
-- User-friendly search and booking system
-- Detailed boat listings with reviews and ratings
+* **Métier :** Métrologie, Contrôle Qualité, Analyse de processus.
+* **Développement Web :** Astro, Ruby on Rails, JavaScript, TypeScript, HTML5, CSS3, Bootstrap.
+* **Bases de données :** PostgreSQL.
+* **Outils & Qualité :** Git, GitHub, Web Performance, Accessibilité (a11y), RGPD.
 
-## 🔧 Technologies & Tools
+---
 
-- **Languages:** Ruby, JavaScript, HTML, CSS
-- **Frameworks:** Ruby on Rails, Bootstrap
-- **Databases:** PostgreSQL
-- **Tools:** Git, GitHub, Heroku
+## 📫 Me contacter
 
-## 🌟 What I'm Passionate About
+* 💼 [LinkedIn](https://www.linkedin.com/in/benjaminlepoutre/)
+* 🌐 [Mon CV en ligne](https://votre-site-de-cv.fr)
 
-- Coding and building web applications
-- Learning new programming languages and technologies
-- Exploring the intersection of technology and creativity
+---
+---
 
-## 📫 How to Reach Me
+<div id="english"></div>
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benjaminlepoutre/) or check out my work on [GitHub](https://github.com/blepoutre).
+# Hello everyone, I'm Benjamin 👋
+
+A **Metrology and Quality professional** with a strong background in **web development**. I bridge the gap between analytical rigor, compliance standards, and modern, high-performance web engineering.
+
+---
+
+## 🧭 At a Glance
+* 📍 Based near Lille, France.
+* 🎯 **My philosophy:** Bringing industrial Quality standards (digital sobriety, accessibility, GDPR) into web development.
+* 💻 **Core Stack:** Astro, HTML/CSS, JavaScript, TypeScript, Ruby on Rails.
+* 🎓 Graduate of **Le Wagon** (Batch 1645) & industry professional.
+
+---
+
+## 🚀 Key Projects
+
+* **[Online CV](https://github.com/blepoutre/cv-benjaminlepoutre-fr)** : Personal portfolio built with Astro, focusing on performance, accessibility, and GDPR compliance.
+* **[Codingo](https://github.com/blepoutre/codingo)** : Interactive coding platform designed to introduce kids aged 8-12 to programming basics (Ruby on Rails / JS).
+* **[BoatnBoat](https://github.com/blepoutre/boatnboat)** : Airbnb-style application for peer-to-peer boat rentals (Ruby on Rails / PostgreSQL).
+
+---
+
+## 🛠️ Skills & Tools
+
+* **Core Domain:** Metrology, Quality Assurance, Process Analysis.
+* **Web Development:** Astro, Ruby on Rails, JavaScript, TypeScript, HTML5, CSS3, Bootstrap.
+* **Databases:** PostgreSQL.
+* **Tools & Best Practices:** Git, GitHub, Web Performance, Accessibility (a11y), GDPR.
+
+---
+
+## 📫 Get in Touch
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/benjaminlepoutre/)
+* 🌐 [My Online CV](https://votre-site-de-cv.fr)
